@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" modified="2023-10-19T08:23:11.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="S_AIF6VfTw8r5P_751QY" version="22.0.4" type="google">
+  <diagram name="Страница — 1" id="NPkTDC5ztZ1If0KKn1M8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zGebXIVcHHdRPN5jFYFo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGebXIVcHHdRPN5jFYFo-1" target="zGebXIVcHHdRPN5jFYFo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGebXIVcHHdRPN5jFYFo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zGebXIVcHHdRPN5jFYFo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGebXIVcHHdRPN5jFYFo-1" value="Клиент через веб-страницу в браузере" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zGebXIVcHHdRPN5jFYFo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGebXIVcHHdRPN5jFYFo-2" target="zGebXIVcHHdRPN5jFYFo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGebXIVcHHdRPN5jFYFo-2" value="Сервер (БД)&lt;br&gt;развернут на localhost:1080&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zGebXIVcHHdRPN5jFYFo-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Архитектура WebTours&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="23" width="220" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
